@@ -1,0 +1,10 @@
+D:\circus\4 курс\8 сем\хелб\task\bin\Debug\task.exe.config
+D:\circus\4 курс\8 сем\хелб\task\bin\Debug\task.exe
+D:\circus\4 курс\8 сем\хелб\task\bin\Debug\task.pdb
+D:\circus\4 курс\8 сем\хелб\task\obj\Debug\task.csproj.AssemblyReference.cache
+D:\circus\4 курс\8 сем\хелб\task\obj\Debug\task.Form1.resources
+D:\circus\4 курс\8 сем\хелб\task\obj\Debug\task.Properties.Resources.resources
+D:\circus\4 курс\8 сем\хелб\task\obj\Debug\task.csproj.GenerateResource.cache
+D:\circus\4 курс\8 сем\хелб\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+D:\circus\4 курс\8 сем\хелб\task\obj\Debug\task.exe
+D:\circus\4 курс\8 сем\хелб\task\obj\Debug\task.pdb
